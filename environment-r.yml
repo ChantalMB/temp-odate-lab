@@ -1,0 +1,18 @@
+name: xeus-r-kernel
+channels:
+  - https://prefix.dev/emscripten-forge-dev
+  - https://prefix.dev/conda-forge
+dependencies:
+  - xeus-r
+  - r-ggplot2
+  - r-dplyr
+  - r-jsonlite
+  - r-dbi
+  # - r-archdata
+  # - r-rcurl
+  # - r-rsqlite
+  # - r-sparql
+  # - r-miniui
+  # - r-rjava
+  # - r-tabulizer
+  # - devtools::install_github("daniel1noble/metaDigitise")
